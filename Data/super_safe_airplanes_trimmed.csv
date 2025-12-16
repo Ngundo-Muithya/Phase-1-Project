@@ -1,0 +1,14 @@
+Investigation.Type,Injury.Severity,Aircraft.damage,Registration.Number,Total.Fatal.Injuries,Total.Serious.Injuries,Total.Minor.Injuries,Total.Uninjured,Weather.Condition,Broad.phase.of.flight
+Incident,Incident,Minor,N101RA,0.0,0.0,0.0,16.0,VMC,Takeoff
+Incident,Incident,Minor,N323BA,0.0,0.0,0.0,9.0,UNK,Maneuvering
+Incident,Incident,Minor,N26210,0.0,0.0,0.0,30.0,IMC,Climb
+Incident,Incident,Minor,N23BX,0.0,0.0,0.0,8.0,VMC,Taxi
+Incident,Incident,Minor,N333EA,0.0,0.0,0.0,152.0,VMC,Landing
+Incident,Incident,Minor,N2233Q,0.0,0.0,0.0,8.0,VMC,Taxi
+Incident,Incident,Minor,N114GA,0.0,0.0,0.0,21.0,VMC,Landing
+Incident,Incident,Minor,N222SA,0.0,0.0,0.0,7.0,VMC,Cruise
+Incident,Incident,Minor,N201WX,0.0,0.0,0.0,4.0,VMC,Go-around
+Incident,Incident,Minor,N33226,0.0,0.0,0.0,4.0,IMC,Cruise
+Incident,Incident,Minor,N104WA,0.0,0.0,0.0,393.0,VMC,Takeoff
+Incident,Incident,Minor,N25973,0.0,0.0,0.0,4.0,VMC,Taxi
+Incident,Incident,Minor,N1500E,0.0,0.0,0.0,3.0,VMC,Cruise
