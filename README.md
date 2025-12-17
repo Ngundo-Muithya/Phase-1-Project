@@ -74,10 +74,20 @@ The safest airplanes details are stored in these CSVs:
 
 The safest models are [here](./Data/top_makes_and_models.csv)
 
-The weather condition most associated with a high number of incidents is **VMC**.
+The weather condition associated with a high number of incidents is **VMC**.
 
 The most critical phase of flight that pilots of these airplanes need to focus on is **Takeoff**.
 
 When choosing between the two most polpular air carriers, Boeing and Airbus, go with **Airbus**.
 
 ## Next Steps
+
+Determine the safest aircarrier
+
+The dataset can still be used to determine whether amateur built airplanes are more likely to crash.
+
+## For more information
+
+For more information, visit the [Jupyter Notebook](./Notebook.ipynb).
+
+Thank you!
