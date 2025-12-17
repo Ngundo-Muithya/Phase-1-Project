@@ -38,9 +38,9 @@ I then trimmed my airplane data to remain with data from the columns of interest
 
 Using this dataset, I dropped all the null values and remained with 3201 records
 
-I identified the safe airplanes from this dataset as those with 0 accidents
+I identified the safe airplanes from this dataset as those with 0 accidents. I stored them in a CSV
 
-I then identified the super safe airplanes as those with 0 accidents as well low minor injuries and high uninjured.
+I then identified the super safe airplanes as those with 0 accidents as well low minor injuries and high uninjured. I also stored these in a CSV
 
 I went further and identifed the safest models and the most critical phase of flight.
 
@@ -68,3 +68,16 @@ I compared Boeing to Airbus to see which was safer. **Airbus** came out on top.
 
 ## Conclusions
 
+The safest airplanes details are stored in these CSVs:
+* [Safe Airplanes](./Data/safe_airplanes_full.csv)
+* [Super Safe Airplanes](./Data/super_safe_airplanes_full.csv)
+
+The safest models are [here](./Data/top_makes_and_models.csv)
+
+The weather condition most associated with a high number of incidents is **VMC**.
+
+The most critical phase of flight that pilots of these airplanes need to focus on is **Takeoff**.
+
+When choosing between the two most polpular air carriers, Boeing and Airbus, go with **Airbus**.
+
+## Next Steps
