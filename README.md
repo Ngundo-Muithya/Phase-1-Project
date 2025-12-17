@@ -36,7 +36,7 @@ The dataset contained info on all kinds of aircraft from balloons to gyrocraft. 
 
 I then trimmed my airplane data to remain with data from the columns of interest only.
 
-Using this dataset, I dropped all the null values and remained with 3201 records
+Using this dataset, I dropped all the records with null values and remained with 3201 records
 
 I identified the safe airplanes from this dataset as those with 0 accidents. I stored them in a CSV
 
@@ -52,13 +52,13 @@ I went further and identifed the safest models and the most critical phase of fl
 
 <img src="Images/Number of incidents per weather condition.png" />
 
-The weather condition associated with the most accidents and incidents was **Visual Meteorological Condition(VMC)** weather i.e. when the sky is clear which seems counterintuitive. Either way pilots need to be very careful when the sky is clear as they would if it were not.
+The weather condition associated with the most accidents and incidents was **Visual Meteorological Condition(VMC)** weather i.e. when the sky is clear which seems counterintuitive. Either way, pilots need to be very careful when the sky is clear as they would if it were not.
 
 ### Number of incidents per phase of flight
 
 <img src="Images/Number of incidents per phase of flight.png" />
 
-The phase of flight associated with the most incidents was **Takeoff**. This makes sense as Takeoff is when the plane is closest to the ground where multiple objects could interfere with it and is notoriously the most dangerous phase of flight.
+The phases of flight associated with the most incidents were **Takeoff** and **Landing**.
 
 ### Threat level per make of airplane
 
@@ -68,7 +68,7 @@ I compared Boeing to Airbus to see which was safer. **Airbus** came out on top.
 
 ## Conclusions
 
-The safest airplanes details are stored in these CSVs:
+The safe airplanes details are stored in these CSVs:
 * [Safe Airplanes](./Data/safe_airplanes_full.csv)
 * [Super Safe Airplanes](./Data/super_safe_airplanes_full.csv)
 
@@ -79,6 +79,16 @@ The weather condition associated with a high number of incidents is **VMC**.
 The most critical phase of flight that pilots of these airplanes need to focus on is **Takeoff**.
 
 When choosing between the two most polpular air carriers, Boeing and Airbus, go with **Airbus**.
+
+## Recommendations
+
+Buy airplanes that are in the safe airplanes CSVs
+
+Buy models that are in the safe models CSV
+
+Pilots who operate these aircraft need to be extra vigilant during VMC weather and during takeoff and landing
+
+When choosing between Boeing and Airbus, go with Airbus
 
 ## Next Steps
 
