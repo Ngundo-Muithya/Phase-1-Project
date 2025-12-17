@@ -40,7 +40,7 @@ Using this dataset, I dropped all the records with null values and remained with
 
 I identified the safe airplanes from this dataset as those with 0 accidents. I stored them in a CSV
 
-I then identified the super safe airplanes as those with 0 accidents as well low minor injuries and high uninjured. I also stored these in a CSV
+I then identified the super safe airplanes as those with 0 accidents as well as those with low minor injuries and high uninjured. I also stored these in a CSV
 
 I went further and identifed the safest models and the most critical phase of flight.
 
