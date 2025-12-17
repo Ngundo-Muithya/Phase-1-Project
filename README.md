@@ -78,7 +78,7 @@ The weather condition associated with a high number of incidents is **VMC**.
 
 The most critical phase of flight that pilots of these airplanes need to focus on is **Takeoff**.
 
-When choosing between the two most polpular air carriers, Boeing and Airbus, go with **Airbus**.
+When choosing between the two most popular air carriers, Boeing and Airbus, go with **Airbus**.
 
 ## Recommendations
 
