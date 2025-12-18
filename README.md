@@ -98,6 +98,6 @@ The dataset can still be used to determine whether amateur built airplanes are m
 
 ## For more information
 
-For more information, visit the [Jupyter Notebook](./Notebook.ipynb).
+For more information, visit the [Jupyter Notebook](./Notebook.ipynb), the [Tableau Dashboard](https://public.tableau.com/views/MadrigalElectromotivesLowestRiskAircraftAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) and the [Presentation](./Presentation.pdf).
 
 Thank you!
